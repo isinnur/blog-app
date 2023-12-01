@@ -196,3 +196,20 @@ textarea {
   overflow: hidden;
   overflow-y: auto;
 }
+
+.logout-btn {
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+  background-color: white;
+  color: black;
+  font-weight: 600;
+  font-size: 22px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background-color: #000000;
+  color: #fff;
+}

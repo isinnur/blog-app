@@ -8,6 +8,12 @@ This simple blog application has been developed using Firebase. Users can log in
 - **Create Posts**: Users can create blog posts.
 - **Delete Posts**: Users who created a post can delete their own posts.
 
+  ![image](https://github.com/isinnur/blog-app/assets/98089962/4cd29e5c-a8d9-426d-97dc-d98c0abe5521)
+![image](https://github.com/isinnur/blog-app/assets/98089962/941504e4-5b02-4341-ac67-d4a6b4ee7e58)
+![image](https://github.com/isinnur/blog-app/assets/98089962/0137a4a0-01af-4ccf-9cc1-a66034bcab09)
+![image](https://github.com/isinnur/blog-app/assets/98089962/4a12a5aa-d043-4b96-b475-2989313cf8a0)
+
+
 ## Installation
 
 1. **Create a Firebase Project**: Create a new project on the Firebase console and configure the necessary settings.
